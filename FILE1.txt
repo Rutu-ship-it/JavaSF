@@ -2,4 +2,6 @@ WELCOME TO PERSISTENT
 Hello Rutuja bhji
 fyiii
 this is remote bug for merge 
+
 change rebase merge local master and remote master.
+
