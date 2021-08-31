@@ -1,1 +1,2 @@
 Adding git hub
+check pull operation from master to remote repository
